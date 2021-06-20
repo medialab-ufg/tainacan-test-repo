@@ -219,3 +219,8 @@
         }
     }
 }
+
+// Icons in selector -------------------------------------------
+.block-editor-block-navigation-leaf.is-selected .block-editor-block-navigation-block-contents svg.tainacan-block-icon path {
+    fill: currentColor;
+}

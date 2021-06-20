@@ -32,7 +32,8 @@ registerBlockType('tainacan/item-submission-form', {
                 xmlns="http://www.w3.org/2000/svg" 
                 viewBox="0 0 10 10"
                 height="24px"
-                width="24px">
+                width="24px"
+                class="tainacan-block-icon">
             <g transform="translate(227.4751,-183.8442)">
                 <path 
                         fill="#298596"

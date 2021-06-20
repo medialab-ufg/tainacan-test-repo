@@ -34,7 +34,8 @@ registerBlockType('tainacan/faceted-search', {
                 xmlns="http://www.w3.org/2000/svg" 
                 viewBox="0 0 6.3499998 6.3499998"
                 height="24px"
-                width="24px">
+                width="24px"
+                class="tainacan-block-icon">
             <g transform="matrix(0.2891908,0,0,0.2891908,-30.465367,-38.43427)">
                 <path 
                         transform="matrix(0.26458333,0,0,0.26458333,104.32258,131.88168)"

@@ -17,7 +17,8 @@ registerBlockType('tainacan/search-bar', {
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="-2 -2 20 20"
                 height="24px"
-                width="24px">
+                width="24px"
+                class="tainacan-block-icon">
             <path 
                 fill="#298596"
                 d="M0,5.8C0,5,0.2,4.2,0.5,3.5s0.7-1.3,1.2-1.8s1.1-0.9,1.8-1.2C4.2,0.1,5,0,5.8,0S7.3,0.1,8,0.5
